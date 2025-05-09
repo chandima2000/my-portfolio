@@ -1,73 +1,54 @@
-# Devfolio
+# 🧑‍💻 Chandima Maduwantha — Developer Portfolio
 
-Devfolio is a portfolio website built using Next.js, Tailwind CSS, and Framer Motion. It allows developers to showcase their projects, skills, and blogs in a visually appealing manner.
+Welcome to my personal portfolio website!  
+This project highlights my expertise as a **Full Stack Developer**, **AI/ML Engineer**, and **DevOps Enthusiast** — featuring my projects, technical skills, blog posts, and more.
 
-## Table of Contents
+## 🚀 Live Demo
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Animations](#animations)
-- [Components](#components)
-- [Types](#types)
-- [Contributing](#contributing)
-- [License](#license)
+🌐 [Visit Portfolio Website](https://your-deployed-url.com)
 
-## Features
 
-- Responsive design using Tailwind CSS
-- Smooth animations with Framer Motion
-- Dark mode support
-- Modular and reusable components
-- Easy to customize
+## 🛠️ Tech Stack
 
-## Installation
+- **Frontend:** Next.js 15 (App Router), React, Tailwind CSS
+- **Animation:** Framer Motion
+- **Icons:** React Icons
+- **Deployment:** Vercel , Github Actions
 
-To get started with Devfolio, follow these steps:
+---
 
-1. **Clone the repository:**
+## 🎯 Features
 
-   ```bash
-   git clone https://github.com/yourusername/devfolio.git
-   cd devfolio
-   ```
+- ✨ Smooth animated Hero section with a rotating SVG border
+- 🌓 Light & Dark mode toggle
+- 📱 Fully responsive layout for all screen sizes
+- 🗂️ Project showcase with live/code buttons
+- 📚 Blog section with read-time and thumbnails
+- 📄 Downloadable CV
+- 🔗 TechProfile section with links to GitHub, LinkedIn, Medium, and Stack Overflow
 
-2. **Install the dependencies:**
+---
 
-   Make sure you have [Node.js](https://nodejs.org/) installed. Then, run the following command to install the necessary packages:
+## 📦 Getting Started Locally
 
-   ```bash
-   npm install
-   ```
+```bash
+# Clone the repository
+git clone https://github.com/chandima2000/portfolio.git
 
-3. **Run the development server:**
+# Navigate into the folder
+cd portfolio
 
-   Start the development server to view the project locally:
+# Install dependencies
+npm install
 
-   ```bash
-   npm run dev
-   ```
+# Run the dev server
+npm run dev
 
-   Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+# Open in browser
+http://localhost:3000
 
-4. **Build for production:**
+```
+---
 
-   To create an optimized production build, run:
-
-   ```bash
-   npm run build
-   ```
-
-5. **Start the production server:**
-
-   After building the project, you can start the production server with:
-
-   ```bash
-   npm start
-   ```
-
-## Usage
-The Devfolio project is structured to be intuitive and easy to navigate.
-
-By understanding the structure and components of Devfolio, you can easily customize and extend the project to fit your needs.
-
+## 📝 License
+This project is licensed under the MIT License.
