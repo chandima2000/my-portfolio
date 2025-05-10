@@ -5,7 +5,7 @@ This project highlights my expertise as a **Full Stack Developer**, **AI/ML Engi
 
 ## 🚀 Live Demo
 
-🌐 [Visit Portfolio Website](https://your-deployed-url.com)
+🌐 [Visit Portfolio Website](https://chandima2000.github.io/my-portfolio/)
 
 
 ## 🛠️ Tech Stack
@@ -33,7 +33,7 @@ This project highlights my expertise as a **Full Stack Developer**, **AI/ML Engi
 
 ```bash
 # Clone the repository
-git clone https://github.com/chandima2000/portfolio.git
+git clone https://github.com/chandima2000/my-portfolio.git
 
 # Navigate into the folder
 cd portfolio
