@@ -15,7 +15,7 @@ export const projects: Project[] = [
           "Docker"],
         githubLink: 'https://github.com/chandima2000/E-Commerce-Platform',
         demoLink: '',
-        image: '/projects/e-commerce.png',
+        image: './projects/e-commerce.png',
       },
       {
         title: "AI-Powered Career Path Recommendation System",
@@ -34,7 +34,7 @@ export const projects: Project[] = [
           "Langchain",
           "LLM"
         ],
-        image: "/projects/career.png",
+        image: "./projects/career.png",
         githubLink: "https://github.com/chandima2000/career-path-recommendation-system",
         demoLink: "" 
       },
@@ -49,7 +49,7 @@ export const projects: Project[] = [
           "Framer Motion",
           "TypeScript"
         ],
-        image: "/projects/portfolio.png", 
+        image: "./projects/portfolio.png", 
         githubLink: "https://github.com/chandima2000/my-portfolio", 
         demoLink: "https://your-portfolio-url.com" 
       },      
@@ -65,7 +65,7 @@ export const projects: Project[] = [
           "Firebase",
           "Redux Toolkit"
         ],
-        image: "/projects/real-estate.png",
+        image: "./projects/real-estate.png",
         githubLink: "https://github.com/chandima2000/Real-Estate-MarketPlace",
         demoLink: "https://real-estate-market-web.onrender.com/"
       },
@@ -81,7 +81,7 @@ export const projects: Project[] = [
           "Material-UI",
           "SASS"
         ],
-        image: "/projects/pet-store.png",
+        image: "./projects/pet-store.png",
         githubLink: "https://github.com/chandima2000/pet-store-react-dotnet",
         demoLink: ""
       },
@@ -90,7 +90,7 @@ export const projects: Project[] = [
         description:
           "A Windows Form C# application to manage faculty data. Included admin login, and CRUD operations with SQL Server for data storage.",
         technologies: ["C#", ".NET Framework", "Windows Forms", "SQL Server"],
-        image: "/projects/faculty.png",
+        image: "./projects/faculty.png",
         githubLink: "https://github.com/chandima2000/faculty-management-system",
         demoLink: ""
       },

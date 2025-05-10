@@ -7,7 +7,7 @@ export const blogs: Blog[] = [
     excerpt: "A step-by-step guide to integrating Supabase into your TypeScript project with authentication and database setup.",
     date: "2025-04-17",
     readTime: "2 min read",
-    image: "/blogs/supabase.png"
+    image: "./blogs/supabase.png"
   },
   {
     title: "Difference between Contextual Embeddings & Static Embeddings",
@@ -15,7 +15,7 @@ export const blogs: Blog[] = [
     excerpt: "Explore how contextual embeddings differ from static ones, and why they matter in modern NLP systems.",
     date: "2025-04-12",
     readTime: "3 min read",
-    image: "/blogs/nlp.png"
+    image: "./blogs/nlp.png"
   },
   {
     title: "Unlocking Observability with Grafana Stack",
@@ -23,6 +23,6 @@ export const blogs: Blog[] = [
     excerpt: "Learn how to use Grafana with Prometheus and Loki to build a powerful observability and monitoring stack.",
     date: "2025-02-14",
     readTime: "3 min read",
-    image: "/blogs/grafana.png"
+    image: "./blogs/grafana.png"
   }
 ];
