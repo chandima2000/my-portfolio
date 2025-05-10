@@ -31,7 +31,7 @@ export default function About() {
           With a strong foundation in both frontend and backend technologies, I create seamless
           user experiences and robust server-side solutions. I&apos;m deeply curious about the advancements in
           <span className="text-primary font-medium"> Artificial Intelligence, DevOps practices</span>, and
-          <span className="text-primary font-medium"> cutting-edge research</span>. I'm driven by a desire to innovate,
+          <span className="text-primary font-medium"> cutting-edge research</span>. I&apos;m driven by a desire to innovate,
           automate, and constantly explore new knowledge frontiers.
         </p>
 
